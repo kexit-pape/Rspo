@@ -1,0 +1,3 @@
+D:\YES\YES\YES\Debug\YES.vcxproj.AssemblyReference.cache
+D:\YES\YES\YES\Debug\YES.yourelectricscooter.resources
+D:\YES\YES\YES\Debug\YES.vcxproj.GenerateResource.cache
